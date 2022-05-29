@@ -85,10 +85,10 @@ function getMapData(hash)
 			return sd.ZoneName
 		else
 			print('No data for:', hash)
-			return 'unknown'
+			return 'Unknown'
 		end
 	else
-		return 'unknown'
+		return 'Unknown'
 	end
 end
 
