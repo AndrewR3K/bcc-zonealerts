@@ -181,7 +181,7 @@ function nativeAlertTop()
 	-- local wind = getIGWindSpeed()
 
 	if zone then
-		TriggerEvent("vorp_core:NotifyTop",  time .. ' ~COLOR_YELLOWSTRONG~' .. temp, zone, Config.Notification.TimeShowing)
+		TriggerEvent("vorp:NotifyTop",  time .. ' ~COLOR_YELLOWSTRONG~' .. temp, zone, Config.Notification.TimeShowing)
 	end
 end
 
