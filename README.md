@@ -1,4 +1,5 @@
-# BCC - zonealerts
+
+# BCC - zonealerts (THIS CODEBASE HAS BEEN DEPRECATED!! ANY AND ALL FUTURE DEVELOPMENT WILL BE CONTINUED ON (VORPCORE/vorp_zonenotify)[https://github.com/VORPCORE/vorp_zonenotify]
 
 > A RedM zone notification system for [Vorp Core](http://docs.vorpcore.com:3000/)
 
